@@ -72,7 +72,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hansaja132&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+  <img src="https://trophy.benkou.dev/?username=Hansaja132&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
 </p>
 
 ---
