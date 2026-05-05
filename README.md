@@ -54,18 +54,19 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hansaja132&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hansaja132&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Hansaja132&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> 
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Hansaja132&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph" />
+</div>
 
 ---
 
 ## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hansaja132&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Hansaja132&theme=tokyonight" alt="GitHub Streak" /></a>
+</div>
+
 
 ---
 
